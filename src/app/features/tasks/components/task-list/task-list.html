@@ -1,0 +1,5 @@
+@for (task of taskList; track task.id) {
+    <app-task-card />
+} @empty {
+    <span>No items.</span>
+}
