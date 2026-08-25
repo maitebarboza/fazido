@@ -1,5 +1,9 @@
 # Fazido
 
+A study project developed with Angular and TypeScript to update and refresh my knowledge of the current version of Angular.
+
+The project consists of a task management application built to practice Angular's current features and recommended development practices through a complete CRUD workflow.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.1.5.
 
 ## Development server
